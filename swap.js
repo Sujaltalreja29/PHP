@@ -1,0 +1,4 @@
+function ab()
+{
+    alert("Clicked");
+}

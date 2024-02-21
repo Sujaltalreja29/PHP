@@ -1,0 +1,19 @@
+tr{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+table{
+    background-color: aqua;
+    border-style: double;
+    border-color: aquamarine;
+    border-radius: 10px;
+    border-width: 20px;
+    border-color: blue;
+    font-size: larger;
+}
+body{
+    background-color: violet;
+}
+h1{
+    padding-top: 20px ;
+}

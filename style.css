@@ -1,0 +1,19 @@
+body{
+    background-color: cornflowerblue;
+    padding-top: 50px;
+    
+}
+td{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+table{
+    background-color: rgb(202, 143, 66);
+    border-style: double;
+    border-radius: 10px;
+    border-color: burlywood;
+}
